@@ -1,1 +1,1 @@
-from docker pull otel/opentelemetry-collector-builder:latest
+from  otel/opentelemetry-collector-builder:latest
